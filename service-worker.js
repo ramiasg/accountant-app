@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/accountant-app/precache-manifest.1876932713ecf713bd021a01a6231fd4.js"
+  "/accountant-app/precache-manifest.13e4ecc4ac30b0aac90012814e7cf72b.js"
 );
 
 self.addEventListener('message', (event) => {
