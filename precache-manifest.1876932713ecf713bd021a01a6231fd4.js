@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da509ae94544366ffa309a632a451e01",
+    "revision": "7a31cee4ee11f5a29f3edec10fa7650a",
     "url": "/accountant-app/index.html"
   },
   {
-    "revision": "01221eb65cd53efcfff8",
-    "url": "/accountant-app/static/css/main.d02abab5.chunk.css"
+    "revision": "1a1b5c85432b5b028a72",
+    "url": "/accountant-app/static/css/main.d40c4dc3.chunk.css"
   },
   {
     "revision": "ec2792ffc3cc34c6f0a1",
     "url": "/accountant-app/static/js/2.f41f9632.chunk.js"
   },
   {
-    "revision": "01221eb65cd53efcfff8",
+    "revision": "1a1b5c85432b5b028a72",
     "url": "/accountant-app/static/js/main.d443b540.chunk.js"
   },
   {
